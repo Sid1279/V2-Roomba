@@ -1,6 +1,6 @@
 # Wall-E Arduino Robot
 
-This Arduino code controls the fully autonomous Wall-E robot, utilizing ultrasonic sensors for distance measurement and servo motors for movement. The code includes functionality to perform various movements and react to objects detected by the sensors.
+This Arduino code controls the fully autonomous Wall-E robot, utilizing ultrasonic sensors for distance measurement, DC motors for motion and servo motors for scoop movement. The code includes functionality to perform various movements and react to objects detected by the sensors.
 
 ## TinkerCAD Circuit
 
