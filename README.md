@@ -38,6 +38,6 @@ Please refer to the PDF version of the design document for more details.
 
 Upon running the code on the Arduino board, the Wall-E robot will perform a predefined sequence of movements, including forward, backward, left turn, right turn, and stop. The ultrasonic sensor will continuously measure the distance to nearby objects and blink an LED on the Arduino board when an object is detected within a specific range.
 
-## Acknowledgements
+## Acknowledgements 🗄️
 
 This project was built as part of ECE 198 at UWaterloo.
