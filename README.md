@@ -1,12 +1,12 @@
-# Wall-E Arduino Robot
+# Wall-E Arduino Robot 🤖
 
 This Arduino code controls the fully autonomous Wall-E robot, utilizing ultrasonic sensors for distance measurement, DC motors for motion and servo motors for scoop movement. The code includes functionality to perform various movements and react to objects detected by the sensors.
 
-## TinkerCAD Circuit
+## TinkerCAD Circuit 📟
 
 You can find the TinkerCAD circuit for Wall-E [here](https://www.tinkercad.com/things/hlpbCUQ0bUz-wall-e-circuit/editel). It provides a visual representation of the circuit connections and components used in the code.
 
-## Description
+## Description 📝
 
 The Wall-E robot code utilizes the following components:
 
@@ -18,7 +18,7 @@ The Wall-E robot code utilizes the following components:
 
 The code initializes the necessary pins and servo objects. It then performs a sequence of movements to demonstrate the capabilities of the robot, including forward, backward, left turn, right turn, and stop. Additionally, the code utilizes the ultrasonic sensor to detect nearby objects and blink an LED when an object is within a specific range.
 
-## Components
+## Components ⚒️
 
 To recreate the Wall-E robot, you will need the following components:
 
@@ -31,10 +31,10 @@ To recreate the Wall-E robot, you will need the following components:
 - Jumper wires
 - Breadboard
 
-## Setup
+## Setup 📺
 Please refer to the PDF version of the design document for more details.
 
-## Usage
+## Usage 🌒
 
 Upon running the code on the Arduino board, the Wall-E robot will perform a predefined sequence of movements, including forward, backward, left turn, right turn, and stop. The ultrasonic sensor will continuously measure the distance to nearby objects and blink an LED on the Arduino board when an object is detected within a specific range.
 
